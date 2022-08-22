@@ -1,0 +1,57 @@
+13
+int21
+CTDL&GT
+1
+2
+int201
+Co so du lieu
+1
+2
+INT503
+lap trinh game co ban
+2
+2
+1
+aaaa
+1
+1
+2
+bbb bbbb
+1
+1
+3
+cccc
+1
+1
+int001
+ki nang tao lap van ban
+1
+1
+asd
+sdsad sds s
+2
+1
+int089
+ly thuyet thong tin
+1
+2
+int203
+lap trinh huong doi tuong
+2
+1
+int261
+Ki thuat do hoa
+1
+1
+int431
+ki nang thuyet trinh
+1
+2
+int31
+Co so du lieu phan tan
+1
+2
+int405
+xyz
+1
+1

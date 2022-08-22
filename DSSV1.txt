@@ -1,0 +1,85 @@
+12
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+d16cqpt01
+n16dcpt001
+Tran Quang
+Minh
+123123123
+2016
+1
+d17cqpt01
+n17dcpt002
+Vu Ngoc Anh
+Ngan
+12312
+2017
+1
+d17cqpt01
+n17dcpt004
+Nguyen Anh
+Vien
+123123
+2017
+2
+d17cqpt01
+n17dcpt009
+Dang Thi Kim
+Hong
+123123
+2017
+2
+d17cqpt01
+n17dcpt011
+Vu Thanh
+Tra
+12312
+2017
+2
+d17cqpt01
+n17dcpt024
+Tran Ngoc
+Quang
+26536234
+2017
+1
+d17cqpt01
+n17dcpt025
+Nguyen Long
+Duy
+23123
+2017
+1
+d17cqpt01
+n17dcpt029
+Tran Tien
+Doan
+12312
+2017
+1
+d17cqpt01
+n17dcpt031
+Nguyen Tien
+Linh
+123123
+2017
+1
+d17cqpt01
+n17dcpt034
+Tran Thi Bich
+Hop
+123123
+2017
+2
